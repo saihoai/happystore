@@ -1,2 +1,8 @@
 # happystore
-Download at: https://themeforest.net/item/happystore-multipurpose-responsive-ecommerce-wordpress-theme/19794276
+- This is WordPress Theme
+- Support: 
+ + Woocommerce
+ + SEO
+ + RTL
+ + Revolution Slider
+ + Visual Composer
